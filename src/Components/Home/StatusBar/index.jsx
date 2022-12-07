@@ -3,6 +3,8 @@ import { View, StyleSheet, Image } from "react-native";
 
 import { ProgressBar } from "react-native-paper";
 
+import LifeStatus from "../../Common/LifeStatus";
+
 export default function StatusBar() {
     return (
         <View style={styles.container}>
