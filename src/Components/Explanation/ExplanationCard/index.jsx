@@ -25,8 +25,7 @@ export default function ExplanationCard() {
                 style={styles.icon}
             />
             <Text style={styles.description}>
-            <Text style={styles.money}>Financeiro:
-            </Text> Hábitos para te ajudar
+            <Text style={styles.money}>Financeiro:</Text> Hábitos para te ajudar
             com controle financeiro
             </Text>
         </View>
@@ -88,7 +87,7 @@ const styles = StyleSheet.create({
         color: "#FF0044",
         fontWeight: "bold",
     },
-    humor: {
+    fun: {
         color: "#FE7F23",
         fontWeight: "bold",
     },

@@ -10,6 +10,7 @@ export default function Start() {
 
     const handelNavAppExplanation = () => {
         navigation.navigate("AppExplanation");
+
     };
 
 return (

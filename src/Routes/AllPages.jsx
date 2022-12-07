@@ -5,6 +5,7 @@ import Start from "../Pages/Start";
 import AppExplanation from "../Pages/AppsExplanation";
 import Home from "../Pages/Home";
 
+
 const Stack = createNativeStackNavigator();
 
 export default function AllPages() {
