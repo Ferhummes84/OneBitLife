@@ -16,10 +16,10 @@ export default function AppExplanation() {
             <ScrollView>
                 <View style={{ alignItems: "center"}}>
                     <Text style={styles.title}>
-                        Antes deixa {"\n"} eu te explicar...
+                        Antes, deixa {"\n"} eu te explicar...
                     </Text>
                     <ExplanationCard />
-                    < Text style={styles.description}>
+                    < Text style={styles.descriptionCta}>
                         Pronto(a) para subir de nível na vida?
                     </Text>
                     < Text style={styles.description}>
